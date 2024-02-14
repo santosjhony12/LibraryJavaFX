@@ -19,7 +19,7 @@ This is a simple library project implemented in JavaFX with CRUD (Create, Read, 
 1. Clone this repository to your local environment:
 
    ```bash
-   git clone https://github.com/santosjhony12/javafx-library-crud.git
+   git clone https://github.com/santosjhony12/LibraryJavaFX.git
    ```
    
 2. Navigate to the project directory:
